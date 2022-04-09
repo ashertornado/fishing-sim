@@ -1,0 +1,11 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.welcome {
+    text-align: center;
+}
+
+#info-text {
+    font-weight: bolder;
+}
